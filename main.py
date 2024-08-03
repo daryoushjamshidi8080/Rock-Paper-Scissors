@@ -20,6 +20,7 @@ db_manager = DatabaseManager(
 
 
 
+
 #id and hash telegram 
 api_id =19900466 
 api_hash = 'fc393ce306361ef2bb938ec8d2aa84fc'
