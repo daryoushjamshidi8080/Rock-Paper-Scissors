@@ -5,7 +5,7 @@ from pyromod import listen
 from pyrogram.errors import PeerIdInvalid,BadRequest
 import random
 import psycopg2 # libary connect to databas
-from mysql import DatabaseManager
+from pgsql import DatabaseManager
 
 
 # Server information to connect to the database
